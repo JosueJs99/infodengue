@@ -1,6 +1,8 @@
 # infodengue
 Infodengue
 Demonstração de um gráfico em uma aplicação web
+
+
 #Instalar o dash
 pip install dash
 
